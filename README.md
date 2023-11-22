@@ -1,6 +1,6 @@
 # Bachelor-of-Computer-Science
 Contents from Bachelor Course, major in A.I
-# First-Year:
+# First-Year
 <!-- Upload box for bachelor units-->
 <a href="https://github.com/ngohainnam/COS10004-Computer-Systems">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ngohainnam&repo=COS10004-Computer-Systems&theme=cobalt" />
