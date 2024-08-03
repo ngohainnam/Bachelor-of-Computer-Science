@@ -31,10 +31,6 @@ Contents from Bachelor Course, major in A.I
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ngohainnam&repo=COS20031-Computing-Technology-Design-Project&theme=cobalt" />
 </a>
 
-<a href="https://github.com/ngohainnam/SWE30003-Software-Architectures-and-Design">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ngohainnam&repo=SWE30003-Software-Architectures-and-Design&theme=synthwave" />
-</a>
-
 
 
 
