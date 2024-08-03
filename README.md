@@ -21,3 +21,18 @@ Contents from Bachelor Course, major in A.I
 <a href="https://github.com/ngohainnam/OOP-Program-Game-Alien-Blaster">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ngohainnam&repo=OOP-Program-Game-Alien-Blaster&theme=gruvbox" />
 </a>
+# Second-Year
+<a href="https://github.com/ngohainnam/COS30019-Introduction-to-Artificial-Intelligence">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ngohainnam&repo=COS30019-Introduction-to-Artificial-Intelligence&theme=onedark" />
+</a>
+
+<a href="https://github.com/ngohainnam/COS20031-Computing-Technology-Design-Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ngohainnam&repo=COS20031-Computing-Technology-Design-Project&theme=cobalt" />
+</a>
+
+<a href="https://github.com/ngohainnam/SWE30003-Software-Architectures-and-Design">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ngohainnam&repo=SWE30003-Software-Architectures-and-Design&theme=synthwave" />
+</a>
+
+
+
